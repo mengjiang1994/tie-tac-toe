@@ -1,8 +1,7 @@
 # tie-tac-toe
 
-##Guide
-[Tie-Tac-Toe]
-(https://reactjs.org/tutorial/tutorial.html)
+Guide
+https://reactjs.org/tutorial/tutorial.html
 
 **Please see the main program in src/index.js file.**
 
